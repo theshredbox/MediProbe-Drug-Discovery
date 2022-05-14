@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/theshredbox/Drug-Discovery-Using-ML
+Download and unzip contents from https://github.com/theshredbox/MediProbe-Drug-Discovery
 
 ### Generating the PKL file
 
